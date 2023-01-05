@@ -1,0 +1,5 @@
+C:\Users\Sanket\Desktop\Registration.exe
+C:\Users\Sanket\Desktop\Registration.dll
+C:\Users\Sanket\Desktop\Registration.deps.json
+C:\Users\Sanket\Desktop\Registration.runtimeconfig.json
+C:\Users\Sanket\Desktop\Registration.pdb
